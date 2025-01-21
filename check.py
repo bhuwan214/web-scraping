@@ -1,1 +1,0 @@
-python -c "import requests; print(requests.__version__)"
